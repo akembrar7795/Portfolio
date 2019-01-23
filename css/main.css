@@ -129,10 +129,6 @@ Body Section
   color: white; }
 
 /* ------------------------------
-Navbar Section
---------------------------------*/
-/* CSS code for the Header section. */
-/* ------------------------------
 Portfolio Section
 --------------------------------*/
 #portfolio {
@@ -150,6 +146,3 @@ About Section
 .about-main {
   display: flex;
   justify-content: center; }
-
-/* CSS code for the Contact section. */
-/* CSS code for the Footer section. */
